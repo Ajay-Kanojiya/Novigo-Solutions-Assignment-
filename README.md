@@ -45,9 +45,15 @@ A FastAPI API that accepts form data, fills out the fields in a provided PDF for
     ```sh
     http://127.0.0.1:8060/docs
 
+    ``` 
+    ![apidoc](images/api.png)
+
 7. Test the API endpoint by uploading ```sample_pdf.pdf```
     * Endpoint: ```http://127.0.0.1:8060/fillpdf```
     * Method: ```POST```
+
+8. After successfull api response you should be able to download the pdf file as shown below.
+    ![response](images/response.png)
 
 
 
