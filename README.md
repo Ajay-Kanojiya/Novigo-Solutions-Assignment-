@@ -4,9 +4,9 @@ A FastAPI API that accepts form data, fills out the fields in a provided PDF for
 
     Requirements:
 
-        - Use the provided sample_pdf.pdf form.
-        - Fill the form with the supplied data.
-        - Return the filled PDF as a response.
+        1. Use the provided sample_pdf.pdf form.
+        2. Fill the form with the supplied data.
+        3. Return the filled PDF as a response.
 
 ## Prerequisites:
 
